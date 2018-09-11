@@ -2,7 +2,7 @@
 /* ===[ MAIN.JSX ]======================================= */
 
 body{
-    background-color: aquamarine;
+    background-color: rgb(153, 204, 255);
     text-align: center;
     padding: 30px 100px;
 }
@@ -26,9 +26,9 @@ body{
     border: 1px solid black;
     box-shadow: 5px 5px 5px #888888;
     border-radius: 10px; 
-    background-color: rgba(173, 146, 247, 0.775);
+    background-color: rgb(102, 204, 255);
 }
 
 .menuButton:hover{
-    background-color: rgba(170, 252, 180, 0.823);
+    background-color: rgb(51, 153, 255);
 }

@@ -1,6 +1,6 @@
-# Quck React Template (05/06/2018)
+# React Mask Inputs
 
-This is a personalized template to spin a quick React.js App 
+Examples on how to do Mask Inputs. 
 
 Features:
 
