@@ -32,3 +32,18 @@ body{
 .menuButton:hover{
     background-color: rgb(51, 153, 255);
 }
+
+.maskInputContainer{
+    /* border: 1px solid blue; */
+}
+
+.labelStyle{
+    /* width: 10vw; */
+    /* border: 1px solid red; */
+}
+
+.maskInputStyle{
+    /* border: 1ps solid greenyellow; */
+    background-color: #e2ffc470;
+    margin-left: 50px;
+}
